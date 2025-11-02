@@ -1,8 +1,12 @@
-![Progress](https://img.shields.io/badge/Progression-100%25-blue)
-
-
 This project implements a handwritten digit recognition system using the MNIST dataset
-. It uses TensorFlow/Keras to build and train a simple neural network model that classifies digits (0–9) from images.
+It uses TensorFlow/Keras to build and train a simple neural network model that classifies digits (0–9) from images.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ML-Classification%20|%20Regression-blue" />
+  <img src="https://img.shields.io/badge/Python-3.10+-yellow" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange" />
+  <img src="https://img.shields.io/badge/Status-Completed-success" />
+</p>
 
 📌 Features
 
